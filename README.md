@@ -2,17 +2,18 @@
 
 ### [Delendum fellowship ideas](https://delendum.xyz/writings/2022-11-22-what-to-build-next-in-zero-knowledge.html)
 ### [Aayush's Ideas](https://github.com/Divide-By-0/ideas-for-projects-people-would-use#crypto-400-each)
-
 ### [0xngmi's ideas](https://github.com/0xngmi/ideas)
 
 
 
 ## Circom ideas
+
 1. Develop a library for operations of with more than two operands.
    - Credit : [aayushg.com](https://aayushg.com/)
    - Update : [circom-circuits](https://github.com/nullity00/circom-circuits)
 
 ## Rollup ideas
+
 1. Polygon ZKEVM as rollup on Optimism Bedrock 
    - Tweak the polygon ZKEVM in Go with L1 as Optimism Bedrock & deploy the rollup contracts on Optimism to sync it
    - Credit : Kevin Flitcher's OP Stack Presentations
