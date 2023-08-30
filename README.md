@@ -30,6 +30,7 @@
 ## Halo2 circuit ideas 
 
 Credit : 0xParc
+
 1. DSL: write a language for plonkish that transpiles to halo2 library
    - IR layer for Halo2: format specification of an IR that represent chips / gadgets / halo2 circuit
    - R1CS to Halo2: Using previous IR layer and simple chips for addition & multiplication to set up a R1CS to Halo2 compiler (compiles to IR)
@@ -60,7 +61,8 @@ Credit : 0xParc
 22. duplex sponge construction for poseidon
 
 Credit : Axiom
-23. Autonomous airdrops: Reward protocol users for previous on-chain activity via smart contract without a centralized authority.
+
+23. Autonomous airdrops: Reward protocol users for previous on-chain activity via smart contract without a centralized authority. 
 24. On-chain loyalty: Allow dapps to offer fee discounts or special benefits based on past usage (volume transacted, past ownership of NFTs, or governance participation). You can offer these benefits to your most loyal users... or the most loyal users of your competitors.
 25. Fine-grained governance: Weights votes based on past governance participation, longer tenured token holders, or open-source contributors.
 26. On-chain EigenTrust: Compute the EigenTrust algorithm for an on-chain social graph like from Lens or Attestation Station.
@@ -82,7 +84,9 @@ Credit : Axiom
 42. Numerical computation and machine learning: Verify operations including floating point arithmetic, Newton's method, linear algebra (eigenvalues/eigenvectors), and machine learning algorithms (PCA, page rank, neural networks).
 
 ## Halo2 Tooling ideas
+
 Credit : 0xParc
+
 1. Ecne for halo2(formal verification tool)
 2. Debugging and Static Analysis
    - Halo2 needs developer tools which can guide and help developers understand what’s going under the hood.
