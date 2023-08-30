@@ -1,7 +1,11 @@
 # zk-blockchain-ideas
 
-## [Delendum fellowship ideas](https://delendum.xyz/writings/2022-11-22-what-to-build-next-in-zero-knowledge.html)
-## [Aayush's Ideas](https://github.com/Divide-By-0/ideas-for-projects-people-would-use#crypto-400-each)
+### [Delendum fellowship ideas](https://delendum.xyz/writings/2022-11-22-what-to-build-next-in-zero-knowledge.html)
+### [Aayush's Ideas](https://github.com/Divide-By-0/ideas-for-projects-people-would-use#crypto-400-each)
+
+### [0xngmi's ideas](https://github.com/0xngmi/ideas)
+
+
 
 ## Circom ideas
 1. Develop a library for operations of with more than two operands.
